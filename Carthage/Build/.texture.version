@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "45c0f19ae192cfe679751e26d7bcc282a6113c7f",
+  "iOS" : [
+    {
+      "name" : "AsyncDisplayKit",
+      "hash" : "b698f84895f570c3285c8739f15b3d0d768ccaf96aa8bb491e7a944bc3107dbd",
+      "linking" : "dynamic"
+    }
+  ]
+}
